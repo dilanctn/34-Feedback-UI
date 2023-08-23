@@ -85,3 +85,9 @@ panel-container strong {
 .btn:focus {
     outline: 0;
 }
+
+.fa-heart {
+    font-size: 3rem;
+    color: rgb(224, 104, 124);
+    margin-bottom: 1rem;
+}
